@@ -1,0 +1,1 @@
+Upload your PDF resume in this same folder and rename it to Rajesh_GM_Resume.pdf before publishing.
